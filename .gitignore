@@ -3,3 +3,4 @@
 .ipynb_checkpoints
 datasets
 .env
+catboost_info
